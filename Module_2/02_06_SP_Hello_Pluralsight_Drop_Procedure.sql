@@ -1,0 +1,1 @@
+DROP PROCEDURE pluralsight.hello_pluralsight;

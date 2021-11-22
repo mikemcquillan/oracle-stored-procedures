@@ -1,0 +1,1 @@
+ALTER PROCEDURE pluralsight.hello_pluralsight COMPILE;
